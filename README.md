@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi 👋 I'm Ankit
 
-<!--
-**Ankit560-sys/Ankit560-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Frontend Developer
+    React • JavaScript • HTML • CSS  
+🚀 Building real-world projects and learning modern web development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- JavaScript (ES6+)
+- React
+- Vite
+- HTML5, CSS3
+- Git & GitHub
+- Netlify
+
+---
+
+### 📌 Featured Project
+#### 🎬 MovieHub
+A movie discovery web application built with React and a public movie API.
+
+- Search and browse movies
+- Custom React hooks
+- API request cancellation using AbortController
+- Environment variables configured for production
+- Deployed with Netlify (CI/CD)
+
+🔗 **Live Demo:** https://moviehub91.netlify.app  
+🔗 **Repository:** https://github.com/Ankit560-sys/MovieHub
+
+---
+
+### 📫 Contact
+- GitHub: https://github.com/Ankit560-sys
